@@ -1,0 +1,2 @@
+*.live.bidi.net.uk
+*.bidi.net.uk
